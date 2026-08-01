@@ -5,7 +5,7 @@ I'm Brittan, a business analyst from Texas.
 
 I mostly work on analytics and projects for business process improvements using python, SQL, and Excel.  
 
-I'm also learning UI design with Python and among other projects!  
+I'm also learning UI design with Python, among other projects!  
 
 This profile is where I will be uploading WIP projects as well as other experimental things.  
 
